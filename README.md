@@ -1,4 +1,4 @@
 # apnacollege.demo
 this is my first proper directory
 <br>
-author Saumya Jaiswal
+author Saumya Jaiswal(apna college)
